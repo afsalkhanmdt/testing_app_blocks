@@ -1,0 +1,8 @@
+{
+  "name": "testing_app_blocks",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/afsalkhanmdt/testing_app_blocks",
+    "ssh": "git@github.com:afsalkhanmdt/testing_app_blocks.git"
+  }
+}
